@@ -1,1 +1,3 @@
-# mern-resume
+# React Resume
+
+React, JQuery, Material UI 
